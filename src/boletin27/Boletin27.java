@@ -15,7 +15,8 @@ public class Boletin27 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        tablas act = new tablas();
+        act.setVisible(true);
     }
     
 }
